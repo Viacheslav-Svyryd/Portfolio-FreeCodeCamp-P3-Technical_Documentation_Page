@@ -1,5 +1,5 @@
 # Portfolio-FreeCodeCamp-P3-Technical_Documentation_Page
-## My third student project:hatching_chick::hatched_chick:
+## My third student project:hatched_chick:
 ___
 Here I share with you my third little project from freeCodeCamp which I have made in sertification "Responsive Web Design":relieved: 
 I really hope you will love it:innocent:
